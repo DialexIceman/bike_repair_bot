@@ -11,9 +11,9 @@ cities = ["berlin", "london", "paris", "tokyo", "astana", "almaty"]  #List of ci
 
 # Repair solutions database
 rep_list = {
-    "shifter": "Try adjusting the derailleur cable tension.",
-    "wheels": "Check for loose spokes or tire pressure.",
-    "brakes": "Clean the brake pads and align the calipers.",
+    "shifter": "If the chain makes noise when it is on certain gear, then rotate the barrel tensioner - clockwise to tension the cable, counterclockwise to loosen it.",
+    "wheels": "Make sure that all of your bolts are sufficiently tighened. If the problem still persists, then see if an axle might have been broken. For that, you need to disassemble the back wheel and take the axle out",
+    "brakes": "If your brakes are too loose, then unscrew the bolt holding the cable at the brake pad, tension the cable and rescrew the bolt back in. If brake is making noise, then unscrew bolts that hold the brakes to the wheels, align the brakes, and retighten them. If it's partially making noise then you need to bend the brake disc with pliers",
 }
 
 
